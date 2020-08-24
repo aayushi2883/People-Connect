@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://aayushi2883:aayushi2883@cluster0-shard-00-00.dgbg3.gcp.mongodb.net:27017,cluster0-shard-00-01.dgbg3.gcp.mongodb.net:27017,cluster0-shard-00-02.dgbg3.gcp.mongodb.net:27017/peopleconnect?ssl=true&replicaSet=atlas-61azfy-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken"
+}
